@@ -4,9 +4,9 @@ This is a tool I wrote for my partner who wanted to backup 4TB of photos across 
 
 ### Project Goals
 
-Dry Run - allow the user to preview all possible changes without writeing any data to the drives
-Sync Modified - allow the applications to sync files based on modification date
-Sync Deleted - allow syncing deletions
+- Dry Run - allow the user to preview all possible changes without writeing any data to the drives
+- Sync Modified - allow the applications to sync files based on modification date
+- Sync Deleted - allow syncing deletions
 
 Provide protection against dumb mistakes (I am prone to dumb mistakes, so I guess others are)
 
@@ -15,3 +15,9 @@ Provide protection against dumb mistakes (I am prone to dumb mistakes, so I gues
 make a virtual environment (you really should)
 
 pip install requirements.txt
+
+### TODOs
+
+- ini files
+- testing
+- distribute as windows executable ?
