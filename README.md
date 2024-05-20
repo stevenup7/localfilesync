@@ -16,6 +16,10 @@ make a virtual environment (you really should)
 
 pip install requirements.txt
 
+### Build Exe
+
+pyinstaller.exe .\localfilesync.py -F
+
 ### TODOs
 
 - ini files
